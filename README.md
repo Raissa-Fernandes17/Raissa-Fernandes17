@@ -57,4 +57,4 @@ Para mim, programar não é apenas escrever código: é transformar ideias em ex
 ![Raissa Fernandes' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raissa-Fernandes17&show_icons=true&count_private=true&title_color=ff69b4&icon_color=ff69b4&text_color=c0c0c0&bg_color=1e1e1e)
 
 ---
-⚡Obrigada pela visita! Caso tenha interesse em saber mais, sinta-se à vontade para entrar em contato!
+⚡Obrigada pela visita! Caso tenha interesse em saber mais, sinta-se à vontade para entrar em contato! 
