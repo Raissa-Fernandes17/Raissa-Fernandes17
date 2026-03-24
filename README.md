@@ -53,9 +53,6 @@ Para mim, programar não é apenas escrever código: é transformar ideias em ex
 ## 🔢 Minhas linguagens mais recorrentes
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raissa-Fernandes17&show_icons=true&count_private=true&title_color=ff69b4&icon_color=ff69b4&text_color=c0c0c0&bg_color=1e1e1e)
 
-![Raissa Fernandes' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raissa-Fernandes17&show_icons=true&count_private=true&title_color=ff69b4&icon_color=ff69b4&text_color=c0c0c0&bg_color=1e1e1e)
-
-
  ## 🚀Estatísticas do GitHub
 ![Raissa Fernandes' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raissa-Fernandes17&show_icons=true&count_private=true&title_color=ff69b4&icon_color=ff69b4&text_color=c0c0c0&bg_color=1e1e1e)
 
